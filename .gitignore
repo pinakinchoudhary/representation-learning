@@ -1,0 +1,181 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# PyInstaller
+*.manifest
+*.spec
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+.hypothesis/
+.pytest_cache/
+cover/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+
+# IPython
+profile_default/
+ipython_config.py
+
+# Virtual environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+.pixi
+
+# IDE-specific files
+.vscode/
+.idea/
+.spyderproject
+.spyproject
+.ropeproject
+*.code-workspace
+
+# ML/Data Science specific
+# Model files (large binary files)
+*.h5
+*.hdf5
+*.pkl
+*.pickle
+*.joblib
+*.pt
+*.pth
+*.ckpt
+*.pb
+*.onnx
+*.tflite
+*.mlmodel
+*.mar
+
+# Data files (can be large)
+*.csv
+*.tsv
+*.dat
+*.data
+*.parquet
+*.feather
+*.arrow
+
+# Datasets and data directories
+data/
+datasets/
+raw_data/
+processed_data/
+train/
+test/
+val/
+
+# Experiment tracking and logs
+logs/
+*.log
+experiments/
+runs/
+mlruns/
+wandb/
+.tensorboard/
+lightning_logs/
+
+# Trained models directory
+models/
+checkpoints/
+saved_models/
+weights/
+outputs/
+
+# Credentials and secrets
+.env*
+*.key
+*.pem
+credentials.json
+client_secrets.json
+*creds*
+*password*
+*.httr-oauth*
+secrets.json
+config.json
+
+# Large media files
+*.jpg
+*.jpeg
+*.png
+*.gif
+*.bmp
+*.tiff
+*.mp4
+*.avi
+*.mov
+*.wmv
+
+# Compressed files
+*.zip
+*.tar.gz
+*.rar
+*.7z
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~
+
+# mypy
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# Pyre type checker
+.pyre/
+
+# pytype static type analyzer
+.pytype/
+
+# Cython debug symbols
+cython_debug/
+
+# Ruff
+.ruff_cache/
