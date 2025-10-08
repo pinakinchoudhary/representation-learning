@@ -139,9 +139,6 @@ secrets.json
 config.json
 
 # Large media files
-*.jpg
-*.jpeg
-*.png
 *.gif
 *.bmp
 *.tiff
