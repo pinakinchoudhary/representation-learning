@@ -99,6 +99,7 @@ venv.bak/
 *.parquet
 *.feather
 *.arrow
+*.mat
 
 # Datasets and data directories
 data/
